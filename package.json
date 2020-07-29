@@ -1,0 +1,23 @@
+{
+  "name": "irequire",
+  "version": "1.0.0",
+  "description": "relative require from project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mxyue/irequire.git"
+  },
+  "keywords": [
+    "root",
+    "require"
+  ],
+  "author": "mxyue",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mxyue/irequire/issues"
+  },
+  "homepage": "https://github.com/mxyue/irequire#readme"
+}
