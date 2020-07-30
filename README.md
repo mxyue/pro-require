@@ -1,6 +1,14 @@
 # pro-require
 
-## project file
+### install 
+
+```
+npm install pro-require --save
+```
+
+## usage
+
+### project file
 
 ```
 |-- main.js
@@ -11,14 +19,6 @@
 		|-- post.js
 	|-- route
 		|-- index.js
-```
-
-### usage
-
-### install 
-
-```
-npm install pro-require --save
 ```
 
 #### relative src require
