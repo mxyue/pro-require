@@ -1,7 +1,8 @@
-# irequire
+# pro-require
 
 ## project file
 
+```
 |-- main.js
 |-- src
 	|-- app.js
@@ -10,13 +11,14 @@
 		|-- post.js
 	|-- route
 		|-- index.js
+```
 
 ### usage
 
 ### install 
 
 ```
-npm install irequire --save
+npm install pro-require --save
 ```
 
 #### relative src require
@@ -24,7 +26,7 @@ npm install irequire --save
 in main.js
 
 ``` js
-require('irequire')('~', 'src')
+require('pro-require')('~', 'src')
 
 //now you can use relative require and relative project src directory require
 
@@ -41,7 +43,7 @@ const route = require('~/route')
 #### relative project require
 
 ``` js
-require('irequire')('~')
+require('pro-require')('~')
 
 //prefix require
 const userService = require('~/src/service/user')

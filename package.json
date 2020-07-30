@@ -1,5 +1,5 @@
 {
-  "name": "irequire",
+  "name": "pro-require",
   "version": "1.0.0",
   "description": "relative require from project",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/mxyue/irequire.git"
+    "url": "git+ssh://git@github.com/mxyue/pro-require.git"
   },
   "keywords": [
     "root",
@@ -17,7 +17,8 @@
   "author": "mxyue",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mxyue/irequire/issues"
+    "url": "https://github.com/mxyue/pro-require/issues",
+    "email": "basicbox@126.com"
   },
-  "homepage": "https://github.com/mxyue/irequire#readme"
+  "homepage": "https://github.com/mxyue/pro-require#readme"
 }
